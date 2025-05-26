@@ -73,7 +73,7 @@ elif selected == "Informações":
 # Rodapé
 st.markdown("""
 <div class="footer">
-    <p>© 2025 Análise de Eficiência de Máquinas | Desenvolvido com ❤️ usando Streamlit</p>
+    <p>© 2025 Análise de Eficiência de Máquinas | Desenvolvido por Matheus Martins Lopes usando Streamlit</p>
     <p><small>Versão 3.1.0 | Última atualização: Maio 2025</small></p>
 </div>
 """, unsafe_allow_html=True)
